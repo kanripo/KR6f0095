@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:38.612166
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:03
 #+TITLE: 阿彌陀佛說呪
 #+PROPERTY: CBETA_ID T12n0369
 #+PROPERTY: ID KR6f0095
